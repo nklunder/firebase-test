@@ -17,5 +17,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/nklunder/firebase-test"
+  "homepage": "http://nklunder.github.io/firebase-test"
 }
